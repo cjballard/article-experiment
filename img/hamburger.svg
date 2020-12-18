@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="26" height="17" viewBox="0 0 26 17">
+  <g fill="none" fill-rule="evenodd" stroke="#000" stroke-linecap="square" transform="translate(1)">
+    <line x2="24" y1=".5" y2=".5"/>
+    <line x2="24" y1="8.5" y2="8.5"/>
+    <line x2="24" y1="16.5" y2="16.5"/>
+  </g>
+</svg>
